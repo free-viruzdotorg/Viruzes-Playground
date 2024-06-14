@@ -1,4 +1,7 @@
-# Viruzes-Playground
+Viruzes playground
+
+
+# Description:
 This is an information security based playground for all and is encouraged to use, fork, and modify at your own free will to learn, improve and get as much experience as you please all for free
 
 This is my personal project to give back to the community for free and learn cybersecurity in a safe and fun aspect of all use cases
@@ -58,3 +61,10 @@ Website with tools listed: https://www.activecountermeasures.com/free-tools/
 - OSQuery Manager
 - Saltstack
 - Docker
+
+# Acknowledgements
+TBD
+
+
+# FAQ
+TBD
